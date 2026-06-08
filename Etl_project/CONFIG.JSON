@@ -1,0 +1,4 @@
+{
+    "source":"s3://landing/customer",
+    "target":"redshift.customer"
+}
