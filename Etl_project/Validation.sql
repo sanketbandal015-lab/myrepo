@@ -1,0 +1,1 @@
+select * from customer where customer_id is null
